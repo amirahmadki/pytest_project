@@ -18,6 +18,12 @@ def wallet():
     (20, 2, 18),
 ])
 
+def test_transactions2(earned, spent, expected):
+    my_wallet = Wallet()
+    my_wallet.add_cash(earned)
+    my_wallet.spend_cash(spent)
+    assert my_wallet.balance == expected
+
 def test_transactions(earned, spent, expected):
     my_wallet = Wallet()
     my_wallet.add_cash(earned)
