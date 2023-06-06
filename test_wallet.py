@@ -46,6 +46,9 @@ def test_wallet_add_cash(wallet):
 
 
 
+
+
+
 def test_wallet_spend_cash(wallet):
     wallet.spend_cash(10)
     assert wallet.balance == 10
