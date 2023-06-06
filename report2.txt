@@ -1,0 +1,56 @@
+Name                 Stmts   Miss  Cover
+----------------------------------------
+test_capitalize.py      10      0   100%
+test_wallet.py          27      0   100%
+wallet.py               11      0   100%
+----------------------------------------
+TOTAL                   48      0   100%
+Name                 Stmts   Miss  Cover
+----------------------------------------
+test_capitalize.py      10      0   100%
+test_wallet.py          27      0   100%
+wallet.py               11      0   100%
+----------------------------------------
+TOTAL                   48      0   100%
+Name                 Stmts   Miss  Cover
+----------------------------------------
+test_capitalize.py      10      0   100%
+test_wallet.py          27      0   100%
+wallet.py               11      0   100%
+----------------------------------------
+TOTAL                   48      0   100%
+Name                 Stmts   Miss  Cover
+----------------------------------------
+test_capitalize.py      10      0   100%
+test_wallet.py          27      0   100%
+wallet.py               11      0   100%
+----------------------------------------
+TOTAL                   48      0   100%
+Name                 Stmts   Miss  Cover
+----------------------------------------
+test_capitalize.py      10      0   100%
+test_wallet.py          27      0   100%
+wallet.py               11      0   100%
+----------------------------------------
+TOTAL                   48      0   100%
+Name                 Stmts   Miss  Cover
+----------------------------------------
+test_capitalize.py      10      0   100%
+test_wallet.py          27      0   100%
+wallet.py               11      0   100%
+----------------------------------------
+TOTAL                   48      0   100%
+Name                 Stmts   Miss  Cover
+----------------------------------------
+test_capitalize.py      10      0   100%
+test_wallet.py          27      0   100%
+wallet.py               11      0   100%
+----------------------------------------
+TOTAL                   48      0   100%
+Name                 Stmts   Miss  Cover
+----------------------------------------
+test_capitalize.py      10      0   100%
+test_wallet.py          27      0   100%
+wallet.py               11      0   100%
+----------------------------------------
+TOTAL                   48      0   100%
